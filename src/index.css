@@ -1,0 +1,20 @@
+
+/* In global.css or Tailwind CSS's @layer utilities */
+.clip-bottom-diagonal {
+  clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
+}
+
+
+@import "tailwindcss";
+/* ReferralBanner.css */
+
+/* Style for header in referal section */
+.clip-ribbon {
+  background-color: #c8102e; /* deep red */
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  clip-path: polygon(0 0, 92% 0, 80% 100%, 0% 100%);
+}
+
+

@@ -1,0 +1,1386 @@
+{
+    "cricket": [
+        {
+            "match": "INDIAN PREMIER LEAGUE 9",
+            "tournament": "INDIAN PREMIER LEAGUE",
+            "status": "LIVE",
+            "date": "22 MAR",
+            "time": "08:30 PM",
+            "icons": [
+                "F",
+                "BM"
+            ],
+            "odds": {
+                "1": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "X": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "2": {
+                    "back": "-",
+                    "lay": "-"
+                }
+            }
+        },
+        {
+            "match": "IRELAND V WEST INDIES",
+            "tournament": "OTHERS",
+            "status": "LIVE",
+            "date": "21 MAY",
+            "time": "03:15 PM",
+            "icons": [
+                "F",
+                "BM"
+            ],
+            "odds": {
+                "1": {
+                    "back": "2.56",
+                    "lay": "3305.69"
+                },
+                "X": {
+                    "back": "2.6",
+                    "lay": "895.94"
+                },
+                "2": {
+                    "back": "1.63",
+                    "lay": "1429.1"
+                }
+            }
+        },
+        {
+            "match": "INDIAN PREMIER LEAGUE",
+            "tournament": "INDIAN PREMIER LEAGUE",
+            "status": "LIVE",
+            "date": "22 MAR",
+            "time": "08:30 PM",
+            "icons": [
+                "F",
+                "BM"
+            ],
+            "odds": {
+                "1": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "X": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "2": {
+                    "back": "-",
+                    "lay": "-"
+                }
+            }
+        },
+        {
+            "match": "IRELAND V WEST INDIES",
+            "tournament": "OTHERS",
+            "status": "LIVE",
+            "date": "21 MAY",
+            "time": "03:15 PM",
+            "icons": [
+                "F",
+                "BM"
+            ],
+            "odds": {
+                "1": {
+                    "back": "2.56",
+                    "lay": "3305.69"
+                },
+                "X": {
+                    "back": "2.6",
+                    "lay": "895.94"
+                },
+                "2": {
+                    "back": "1.63",
+                    "lay": "1429.1"
+                }
+            }
+        },
+        {
+            "match": "INDIAN PREMIER LEAGUE",
+            "tournament": "INDIAN PREMIER LEAGUE",
+            "status": "LIVE",
+            "date": "22 MAR",
+            "time": "08:30 PM",
+            "icons": [
+                "F",
+                "BM"
+            ],
+            "odds": {
+                "1": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "X": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "2": {
+                    "back": "-",
+                    "lay": "-"
+                }
+            }
+        },
+        {
+            "match": "IRELAND V WEST INDIES",
+            "tournament": "OTHERS",
+            "status": "LIVE",
+            "date": "21 MAY",
+            "time": "03:15 PM",
+            "icons": [
+                "F",
+                "BM"
+            ],
+            "odds": {
+                "1": {
+                    "back": "2.56",
+                    "lay": "3305.69"
+                },
+                "X": {
+                    "back": "2.6",
+                    "lay": "895.94"
+                },
+                "2": {
+                    "back": "1.63",
+                    "lay": "1429.1"
+                }
+            }
+        }
+    ],
+    "football": [
+        {
+            "match": "ENGLAND VS FRANCE0000",
+            "tournament": "UEFA NATIONS LEAGUE",
+            "status": "LIVE",
+            "date": "25 MAY",
+            "time": "06:30 PM",
+            "icons": [
+                "F"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.75",
+                    "lay": "1.85"
+                },
+                "X": {
+                    "back": "3.20",
+                    "lay": "3.30"
+                },
+                "2": {
+                    "back": "2.10",
+                    "lay": "2.20"
+                }
+            }
+        },
+        {
+            "match": "ENGLAND VS FRANCE",
+            "tournament": "UEFA NATIONS LEAGUE",
+            "status": "LIVE",
+            "date": "25 MAY",
+            "time": "06:30 PM",
+            "icons": [
+                "F"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.75",
+                    "lay": "1.85"
+                },
+                "X": {
+                    "back": "3.20",
+                    "lay": "3.30"
+                },
+                "2": {
+                    "back": "2.10",
+                    "lay": "2.20"
+                }
+            }
+        },
+        {
+            "match": "ENGLAND VS FRANCE",
+            "tournament": "UEFA NATIONS LEAGUE",
+            "status": "LIVE",
+            "date": "25 MAY",
+            "time": "06:30 PM",
+            "icons": [
+                "F"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.75",
+                    "lay": "1.85"
+                },
+                "X": {
+                    "back": "3.20",
+                    "lay": "3.30"
+                },
+                "2": {
+                    "back": "2.10",
+                    "lay": "2.20"
+                }
+            }
+        },
+        {
+            "match": "ENGLAND VS FRANCE",
+            "tournament": "UEFA NATIONS LEAGUE",
+            "status": "LIVE",
+            "date": "25 MAY",
+            "time": "06:30 PM",
+            "icons": [
+                "F"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.75",
+                    "lay": "1.85"
+                },
+                "X": {
+                    "back": "3.20",
+                    "lay": "3.30"
+                },
+                "2": {
+                    "back": "2.10",
+                    "lay": "2.20"
+                }
+            }
+        },
+        {
+            "match": "ENGLAND VS FRANCE",
+            "tournament": "UEFA NATIONS LEAGUE",
+            "status": "LIVE",
+            "date": "25 MAY",
+            "time": "06:30 PM",
+            "icons": [
+                "F"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.75",
+                    "lay": "1.85"
+                },
+                "X": {
+                    "back": "3.20",
+                    "lay": "3.30"
+                },
+                "2": {
+                    "back": "2.10",
+                    "lay": "2.20"
+                }
+            }
+        },
+        {
+            "match": "ENGLAND VS FRANCE",
+            "tournament": "UEFA NATIONS LEAGUE",
+            "status": "LIVE",
+            "date": "25 MAY",
+            "time": "06:30 PM",
+            "icons": [
+                "F"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.75",
+                    "lay": "1.85"
+                },
+                "X": {
+                    "back": "3.20",
+                    "lay": "3.30"
+                },
+                "2": {
+                    "back": "2.10",
+                    "lay": "2.20"
+                }
+            }
+        }
+    ],
+    "tennis": [
+        {
+            "match": "DJOKOVIC VS NADAL",
+            "tournament": "FRENCH OPEN",
+            "status": "LIVE",
+            "date": "23 MAY",
+            "time": "04:00 PM",
+            "icons": [
+                "📺"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.90",
+                    "lay": "2.00"
+                },
+                "X": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "2": {
+                    "back": "1.95",
+                    "lay": "2.05"
+                }
+            }
+        },
+        {
+            "match": "DJOKOVIC VS NADAL",
+            "tournament": "FRENCH OPEN",
+            "status": "LIVE",
+            "date": "23 MAY",
+            "time": "04:00 PM",
+            "icons": [
+                "📺"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.90",
+                    "lay": "2.00"
+                },
+                "X": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "2": {
+                    "back": "1.95",
+                    "lay": "2.05"
+                }
+            }
+        },
+        {
+            "match": "DJOKOVIC VS NADAL",
+            "tournament": "FRENCH OPEN",
+            "status": "LIVE",
+            "date": "23 MAY",
+            "time": "04:00 PM",
+            "icons": [
+                "📺"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.90",
+                    "lay": "2.00"
+                },
+                "X": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "2": {
+                    "back": "1.95",
+                    "lay": "2.05"
+                }
+            }
+        },
+        {
+            "match": "DJOKOVIC VS NADAL",
+            "tournament": "FRENCH OPEN",
+            "status": "LIVE",
+            "date": "23 MAY",
+            "time": "04:00 PM",
+            "icons": [
+                "📺"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.90",
+                    "lay": "2.00"
+                },
+                "X": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "2": {
+                    "back": "1.95",
+                    "lay": "2.05"
+                }
+            }
+        },
+        {
+            "match": "DJOKOVIC VS NADAL",
+            "tournament": "FRENCH OPEN",
+            "status": "LIVE",
+            "date": "23 MAY",
+            "time": "04:00 PM",
+            "icons": [
+                "📺"
+            ],
+            "odds": {
+                "1": {
+                    "back": "1.90",
+                    "lay": "2.00"
+                },
+                "X": {
+                    "back": "-",
+                    "lay": "-"
+                },
+                "2": {
+                    "back": "1.95",
+                    "lay": "2.05"
+                }
+            }
+        }
+    ],
+    "inplay": [
+        {
+            "cricket": [
+                {
+                    "match": "INDIAN PREMIER LEAGUE",
+                    "tournament": "INDIAN PREMIER LEAGUE",
+                    "status": "LIVE",
+                    "date": "22 MAR",
+                    "time": "08:30 PM",
+                    "icons": [
+                        "F",
+                        "BM"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "2": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                },
+                {
+                    "match": "IRELAND V WEST INDIES",
+                    "tournament": "OTHERS",
+                    "status": "LIVE",
+                    "date": "21 MAY",
+                    "time": "03:15 PM",
+                    "icons": [
+                        "F",
+                        "BM"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "2.56",
+                            "lay": "3305.69"
+                        },
+                        "X": {
+                            "back": "2.6",
+                            "lay": "895.94"
+                        },
+                        "2": {
+                            "back": "1.63",
+                            "lay": "1429.1"
+                        }
+                    }
+                },
+                {
+                    "match": "INDIAN PREMIER LEAGUE",
+                    "tournament": "INDIAN PREMIER LEAGUE",
+                    "status": "LIVE",
+                    "date": "22 MAR",
+                    "time": "08:30 PM",
+                    "icons": [
+                        "F",
+                        "BM"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "2": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                },
+                {
+                    "match": "IRELAND V WEST INDIES",
+                    "tournament": "OTHERS",
+                    "status": "LIVE",
+                    "date": "21 MAY",
+                    "time": "03:15 PM",
+                    "icons": [
+                        "F",
+                        "BM"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "2.56",
+                            "lay": "3305.69"
+                        },
+                        "X": {
+                            "back": "2.6",
+                            "lay": "895.94"
+                        },
+                        "2": {
+                            "back": "1.63",
+                            "lay": "1429.1"
+                        }
+                    }
+                },
+                {
+                    "match": "INDIAN PREMIER LEAGUE",
+                    "tournament": "INDIAN PREMIER LEAGUE",
+                    "status": "LIVE",
+                    "date": "22 MAR",
+                    "time": "08:30 PM",
+                    "icons": [
+                        "F",
+                        "BM"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "2": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                },
+                {
+                    "match": "IRELAND V WEST INDIES",
+                    "tournament": "OTHERS",
+                    "status": "LIVE",
+                    "date": "21 MAY",
+                    "time": "03:15 PM",
+                    "icons": [
+                        "F",
+                        "BM"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "2.56",
+                            "lay": "3305.69"
+                        },
+                        "X": {
+                            "back": "2.6",
+                            "lay": "895.94"
+                        },
+                        "2": {
+                            "back": "1.63",
+                            "lay": "1429.1"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "football": [
+                {
+                    "match": "ENGLAND VS FRANCE",
+                    "tournament": "UEFA NATIONS LEAGUE",
+                    "status": "LIVE",
+                    "date": "25 MAY",
+                    "time": "06:30 PM",
+                    "icons": [
+                        "F"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.75",
+                            "lay": "1.85"
+                        },
+                        "X": {
+                            "back": "3.20",
+                            "lay": "3.30"
+                        },
+                        "2": {
+                            "back": "2.10",
+                            "lay": "2.20"
+                        }
+                    }
+                },
+                {
+                    "match": "ENGLAND VS FRANCE",
+                    "tournament": "UEFA NATIONS LEAGUE",
+                    "status": "LIVE",
+                    "date": "25 MAY",
+                    "time": "06:30 PM",
+                    "icons": [
+                        "F"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.75",
+                            "lay": "1.85"
+                        },
+                        "X": {
+                            "back": "3.20",
+                            "lay": "3.30"
+                        },
+                        "2": {
+                            "back": "2.10",
+                            "lay": "2.20"
+                        }
+                    }
+                },
+                {
+                    "match": "ENGLAND VS FRANCE",
+                    "tournament": "UEFA NATIONS LEAGUE",
+                    "status": "LIVE",
+                    "date": "25 MAY",
+                    "time": "06:30 PM",
+                    "icons": [
+                        "F"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.75",
+                            "lay": "1.85"
+                        },
+                        "X": {
+                            "back": "3.20",
+                            "lay": "3.30"
+                        },
+                        "2": {
+                            "back": "2.10",
+                            "lay": "2.20"
+                        }
+                    }
+                },
+                {
+                    "match": "ENGLAND VS FRANCE",
+                    "tournament": "UEFA NATIONS LEAGUE",
+                    "status": "LIVE",
+                    "date": "25 MAY",
+                    "time": "06:30 PM",
+                    "icons": [
+                        "F"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.75",
+                            "lay": "1.85"
+                        },
+                        "X": {
+                            "back": "3.20",
+                            "lay": "3.30"
+                        },
+                        "2": {
+                            "back": "2.10",
+                            "lay": "2.20"
+                        }
+                    }
+                },
+                {
+                    "match": "ENGLAND VS FRANCE",
+                    "tournament": "UEFA NATIONS LEAGUE",
+                    "status": "LIVE",
+                    "date": "25 MAY",
+                    "time": "06:30 PM",
+                    "icons": [
+                        "F"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.75",
+                            "lay": "1.85"
+                        },
+                        "X": {
+                            "back": "3.20",
+                            "lay": "3.30"
+                        },
+                        "2": {
+                            "back": "2.10",
+                            "lay": "2.20"
+                        }
+                    }
+                },
+                {
+                    "match": "ENGLAND VS FRANCE",
+                    "tournament": "UEFA NATIONS LEAGUE",
+                    "status": "LIVE",
+                    "date": "25 MAY",
+                    "time": "06:30 PM",
+                    "icons": [
+                        "F"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.75",
+                            "lay": "1.85"
+                        },
+                        "X": {
+                            "back": "3.20",
+                            "lay": "3.30"
+                        },
+                        "2": {
+                            "back": "2.10",
+                            "lay": "2.20"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "tennis": [
+                {
+                    "match": "DJOKOVIC VS NADAL",
+                    "tournament": "FRENCH OPEN",
+                    "status": "LIVE",
+                    "date": "23 MAY",
+                    "time": "04:00 PM",
+                    "icons": [
+                        "📺"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "2": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        }
+                    }
+                },
+                {
+                    "match": "DJOKOVIC VS NADAL",
+                    "tournament": "FRENCH OPEN",
+                    "status": "LIVE",
+                    "date": "23 MAY",
+                    "time": "04:00 PM",
+                    "icons": [
+                        "📺"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "2": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        }
+                    }
+                },
+                {
+                    "match": "DJOKOVIC VS NADAL",
+                    "tournament": "FRENCH OPEN",
+                    "status": "LIVE",
+                    "date": "23 MAY",
+                    "time": "04:00 PM",
+                    "icons": [
+                        "📺"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "2": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        }
+                    }
+                },
+                {
+                    "match": "DJOKOVIC VS NADAL",
+                    "tournament": "FRENCH OPEN",
+                    "status": "LIVE",
+                    "date": "23 MAY",
+                    "time": "04:00 PM",
+                    "icons": [
+                        "📺"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "2": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        }
+                    }
+                },
+                {
+                    "match": "DJOKOVIC VS NADAL",
+                    "tournament": "FRENCH OPEN",
+                    "status": "LIVE",
+                    "date": "23 MAY",
+                    "time": "04:00 PM",
+                    "icons": [
+                        "📺"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        },
+                        "2": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "badminton": [
+                {
+                    "match": "Lee Zii Jia vs Kento Momota",
+                    "tournament": "All England Open",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "03:00 PM",
+                    "icons": [
+                        "📺"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.75",
+                            "lay": "1.85"
+                        },
+                        "2": {
+                            "back": "2.10",
+                            "lay": "2.20"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "basketball": [
+                {
+                    "match": "Yankees vs Red Sox",
+                    "tournament": "MLB",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "07:10 PM",
+                    "icons": [
+                        "🎙️"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "2": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+         {
+            "greyhoundracing": [
+                {
+                    "match": "Yankees vs Red Sox",
+                    "tournament": "MLB",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "07:10 PM",
+                    "icons": [
+                        "🎙️"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "2": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+          {
+            "horseracing": [
+                {
+                    "match": "Yankees vs Red Sox",
+                    "tournament": "MLB",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "07:10 PM",
+                    "icons": [
+                        "🎙️"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "2": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "boxing": [
+                {
+                    "match": "Tyson Fury vs Oleksandr Usyk",
+                    "tournament": "WBC Heavyweight",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "09:00 PM",
+                    "icons": [
+                        "🥊"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "2.25",
+                            "lay": "2.35"
+                        },
+                        "2": {
+                            "back": "1.60",
+                            "lay": "1.70"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+  "kabaddi": [
+    {
+      "match": "Patna Pirates vs Jaipur Pink Panthers",
+      "tournament": "Pro Kabaddi League",
+      "status": "LIVE",
+      "date": "30 MAY",
+      "time": "08:00 PM",
+      "icons": ["🎽"],
+      "odds": {
+        "1": { "back": "1.85", "lay": "1.95" },
+        "X": { "back": "3.10", "lay": "3.20" },
+        "2": { "back": "2.00", "lay": "2.10" }
+      }
+    },
+    {
+      "match": "Bengal Warriors vs U Mumba",
+      "tournament": "Pro Kabaddi League",
+      "status": "LIVE",
+      "date": "30 MAY",
+      "time": "06:30 PM",
+      "icons": ["📺"],
+      "odds": {
+        "1": { "back": "2.05", "lay": "2.15" },
+        "X": { "back": "3.00", "lay": "3.10" },
+        "2": { "back": "1.75", "lay": "1.85" }
+      }
+    }
+  ]
+}
+,
+        {
+            "cycling": [
+                {
+                    "match": "Tour de France Stage 8",
+                    "tournament": "Tour de France",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "01:00 PM",
+                    "icons": [
+                        "🚴"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "3.10",
+                            "lay": "3.25"
+                        },
+                        "2": {
+                            "back": "2.80",
+                            "lay": "3.00"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "darts": [
+                {
+                    "match": "Van Gerwen vs Wright",
+                    "tournament": "Premier League Darts",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "05:30 PM",
+                    "icons": [
+                        "🎯"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.85",
+                            "lay": "1.95"
+                        },
+                        "2": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "esports": [
+                {
+                    "match": "NAVI vs FaZe Clan",
+                    "tournament": "CS2 Blast Premier",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "06:00 PM",
+                    "icons": [
+                        "🎮"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "2.05",
+                            "lay": "2.15"
+                        },
+                        "2": {
+                            "back": "1.75",
+                            "lay": "1.85"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "futsal": [
+                {
+                    "match": "Spain vs Brazil",
+                    "tournament": "Futsal World Cup",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "02:30 PM",
+                    "icons": [
+                        "⚽"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "2.00",
+                            "lay": "2.10"
+                        },
+                        "2": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "3.00",
+                            "lay": "3.10"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "golf": [
+                {
+                    "match": "Rory McIlroy vs Scottie Scheffler",
+                    "tournament": "US Open Match Play",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "01:45 PM",
+                    "icons": [
+                        "⛳"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.80",
+                            "lay": "1.90"
+                        },
+                        "2": {
+                            "back": "2.00",
+                            "lay": "2.10"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "handball": [
+                {
+                    "match": "France vs Germany",
+                    "tournament": "European Championship",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "04:00 PM",
+                    "icons": [
+                        "🤾"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.70",
+                            "lay": "1.80"
+                        },
+                        "2": {
+                            "back": "2.10",
+                            "lay": "2.20"
+                        },
+                        "X": {
+                            "back": "3.40",
+                            "lay": "3.60"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "hockey": [
+                {
+                    "match": "Maple Leafs vs Bruins",
+                    "tournament": "NHL",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "11:00 PM",
+                    "icons": [
+                        "🏒"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "2.00",
+                            "lay": "2.10"
+                        },
+                        "2": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "3.10",
+                            "lay": "3.30"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "binary": [
+                {
+                    "match": "Jon Jones vs Stipe Miocic",
+                    "tournament": "UFC Heavyweight",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "10:30 PM",
+                    "icons": [
+                        "🥋"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.60",
+                            "lay": "1.70"
+                        },
+                        "2": {
+                            "back": "2.25",
+                            "lay": "2.35"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "politics": [
+                {
+                    "match": "Verstappen vs Leclerc",
+                    "tournament": "F1 Monaco GP",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "02:00 PM",
+                    "icons": [
+                        "🏁"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.40",
+                            "lay": "1.50"
+                        },
+                        "2": {
+                            "back": "3.50",
+                            "lay": "3.70"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "rugby": [
+                {
+                    "match": "New Zealand vs South Africa",
+                    "tournament": "Rugby Championship",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "07:00 PM",
+                    "icons": [
+                        "🏉"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.85",
+                            "lay": "1.95"
+                        },
+                        "2": {
+                            "back": "1.90",
+                            "lay": "2.00"
+                        },
+                        "X": {
+                            "back": "3.25",
+                            "lay": "3.45"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "snooker": [
+                {
+                    "match": "Ronnie O'Sullivan vs Judd Trump",
+                    "tournament": "World Championship",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "12:00 PM",
+                    "icons": [
+                        "🎱"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.95",
+                            "lay": "2.05"
+                        },
+                        "2": {
+                            "back": "1.85",
+                            "lay": "1.95"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "table tennis": [
+                {
+                    "match": "Ma Long vs Fan Zhendong",
+                    "tournament": "World Cup Finals",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "03:30 PM",
+                    "icons": [
+                        "🏓"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.80",
+                            "lay": "1.90"
+                        },
+                        "2": {
+                            "back": "2.00",
+                            "lay": "2.10"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "volleyball": [
+                {
+                    "match": "Brazil vs Italy",
+                    "tournament": "FIVB Nations League",
+                    "status": "LIVE",
+                    "date": "30 MAY",
+                    "time": "06:45 PM",
+                    "icons": [
+                        "🏐"
+                    ],
+                    "odds": {
+                        "1": {
+                            "back": "1.70",
+                            "lay": "1.80"
+                        },
+                        "2": {
+                            "back": "2.20",
+                            "lay": "2.30"
+                        },
+                        "X": {
+                            "back": "-",
+                            "lay": "-"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
